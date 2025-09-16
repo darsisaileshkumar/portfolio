@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "HTML IN MY STYLE",
+        "description": "Comprehensive HTML course covering semantic markup, accessibility, and modern web standards.",
+        "image": "./html.png",
+        "live": "https://techinmystyle.com/html%20in%20my%20style/",
+        "technologies": ["HTML5", "Semantic Web", "Accessibility", "Web Standards"],
+        "category": "Web Development",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "CSS IN MY STYLE",
+        "description": "Advanced CSS techniques including Flexbox, Grid, animations, and responsive design principles.",
+        "image": "./css.png",
+        "live": "https://techinmystyle.com/css%20in%20my%20style/",
+        "technologies": ["CSS3", "Flexbox", "Grid", "Responsive Design"],
+        "category": "Web Development",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "JS BASIC IN MY STYLE",
+        "description": "Advanced JavaScript concepts including ES6+, async programming, and modern frameworks integration.",
+        "image": "./js.png",
+        "live": "https://techinmystyle.com/javascript%20in%20my%20style%20-%20basic/",
+        "technologies": ["JavaScript", "ES6+", "Async/Await", "Modern Frameworks"],
+        "category": "Web Development",
+        "featured": false
+    }
+]
